@@ -1,2 +1,3 @@
 # algorithm
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+잠 올때마다 하고 있습니다
