@@ -1,8 +1,7 @@
-N = int(input())
-sum = 0
-input_data = input()
+n = input()
+s = input()
+answer = 0
+for i in s:
+    answer += int(i)
 
-for i in range(len(input_data)):
-    sum = sum + int(input_data[i])
-    
-print(sum)
+print(answer)
